@@ -17,3 +17,7 @@ if n == res:
     print("{} is palindrome".format(n))
 else:
     print("{} is not palindrome".format(n))
+
+#output
+#121
+#121 is palindrome
