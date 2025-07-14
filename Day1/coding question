@@ -4,3 +4,6 @@
 
 #code 2
 # Check if a number is a palindrome (i.e., the number is equal to its reverse)
+
+#code 3
+#An Armstrong number (a number that is equal to the sum of its own digits each raised to the power of the number of digits)
